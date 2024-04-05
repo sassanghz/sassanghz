@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sassanghazi@gmail**
 
-- 📄 Know about my experiences [https://liveconcordia-my.sharepoint.com/:w:/r/personal/sa_ghazi_live_concordia_ca/_layouts/15/doc2.aspx?sourcedoc=%7BAA346B04-2D8E-411D-B78C-D4BEBAC68246%7D&file=Updated_Resume.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1712345641566&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=eef91551-119a-4a3a-9f0c-34705a0bfb00&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=deebd38a-f785-4e0a-b546-edb48c2d162c](https://liveconcordia-my.sharepoint.com/:w:/r/personal/sa_ghazi_live_concordia_ca/_layouts/15/doc2.aspx?sourcedoc=%7BAA346B04-2D8E-411D-B78C-D4BEBAC68246%7D&file=Updated_Resume.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1712345641566&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=eef91551-119a-4a3a-9f0c-34705a0bfb00&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=deebd38a-f785-4e0a-b546-edb48c2d162c)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sassan-ghazi-7083002a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sassan-ghazi-7083002a9" height="30" width="40" /></a>
