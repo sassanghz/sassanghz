@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [@Hack](https://www.athackctf.com/)
 
-- 🌱 I’m currently learning **Node.JS, JavaScript, React.JS, Assembly**
+- 🌱 I’m currently learning **Python, JavaScript, React.JS, C**
 
 - 👯 I’m looking to collaborate on [MyPortfolio](https://github.com/sassanghz/Portfolio-Website)
 
