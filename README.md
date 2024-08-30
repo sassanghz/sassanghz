@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, React.JS, C**
 
-- 👯 I’m looking to collaborate on [MyPortfolio](https://github.com/sassanghz/Portfolio-Website)
+- 👯 I’m looking to collaborate on [MyPortfolio](https://github.com/sassanghz/Emergency-Alert-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sassanghz](https://github.com/sassanghz)
 
