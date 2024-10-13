@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sassanghz" alt="sassanghz" /></a> </p>
 
-- 🔭 I’m currently working on [@Hack](https://www.athackctf.com/)
+- 🔭 I’m currently working on [@Hack 2025](https://github.com/athack-ctf/web-landing-page-2025/)
 
 - 🌱 I’m currently learning **Python, JavaScript, React.JS, C**
 
-- 👯 I’m looking to collaborate on [MyPortfolio](https://github.com/sassanghz/Emergency-Alert-System)
+- 👯 I’m looking to collaborate on [Rate my Rent](https://github.com/sassanghz/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sassanghz](https://github.com/sassanghz)
+- 👨‍💻 All of my projects are available at [https://github.com/sassanghz](https://digitalghazi.tech/projects/projects)
 
-- 📫 How to reach me **sassanghazi@gmail**
+- 📫 How to reach me **sassanghazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
