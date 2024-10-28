@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, React.JS, Tailwind CSS, C & SQLite**
 
-- 👯 I’m looking to collaborate on [Rate my Rent](https://github.com/sassanghz/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/sassanghz](https://digitalghazi.tech/projects/projects)
 
 - 📫 How to reach me **sassanghazi@gmail.com**
