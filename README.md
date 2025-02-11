@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sassan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">passionate & competitive software developer</h3>
 
 - 🔭 I’m currently working on [@Hack 2025](https://github.com/athack-ctf/web-landing-page-2025/)
