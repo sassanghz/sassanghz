@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">passionate & competitive porngrammer</h3>
+<h3 align="center">passionate & competitive programmer</h3>
 
 <h3>currently working on Zetane @Space Concordia through implementing deep learning thresholds in image processing via RGB/NIR detection for wildfires;)</h3>
 <h3 align="left">Languages and Tools:</h3>
