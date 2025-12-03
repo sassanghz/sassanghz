@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Sassan</h1>
-<h3 align="center">Embedded Systems • FPGA Development • Robotics • AI/ML • Aerospace</h3>
+<h3 align="center">Embedded Systems • FPGA Development • Robotics • AI/ML • Control & Automation</h3>
 
 <p align="center">
-A multidisciplinary engineer passionate about building intelligent hardware–software systems — 
-from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devices and cubesats.
+A passionate about building intelligent hardware–software systems — 
+from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devices, cubesats, and drones.
 </p>
 
 ---
@@ -53,11 +53,11 @@ I work across the full stack of intelligent hardware–software systems:
 ---
 
 ### 💻 **Programming & Tools I Use**
-- **Languages:** C, C++, Python, Verilog/VHDL, MATLAB, Rust (learning), HDL-based tooling  
+- **Languages:** C, C++, Python, Verilog/VHDL, MATLAB, HDL-based tooling  
 - **Frameworks:** PyTorch, OpenCV, ROS/ROS2  
 - **Hardware:** FPGAs, microcontrollers, SBCs (Raspberry Pi, Jetson), sensors, NIR cameras  
-- **Dev Tools:** Git, Linux, Docker, Vivado, Quartus, MATLAB/Simulink, KiCad, Altium  
-- **Other Interests:** control theory, competitive programming, cyber-physical systems, spacecraft electronics
+- **Dev Tools:** Git, Linux, Docker, Vivado, MATLAB/Simulink, KiCad
+- **Other Interests:** control theory, competitive programming, spacecraft electronics
 
 ---
 
