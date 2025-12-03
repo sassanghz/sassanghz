@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Systems • FPGA Development • Robotics • AI/ML • Control & Automation</h3>
 
 <p align="center">
-A passionate about building intelligent hardware–software systems — 
+A passionate about building intelligent hardware–software systems;
 from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devices, cubesats, and drones.
 </p>
 
@@ -17,7 +17,7 @@ from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devi
   Focused on sensor fusion, image pipelines, neural-network quantization, and hardware deployment.
 
 - 🤖 **Robotics, Control Systems & Embedded Intelligence**  
-  Building systems that bridge electronics, firmware, and control — from motor controllers and sensors  
+  Building systems that bridge electronics, firmware, and control from motor controllers and sensors  
   to high-level autonomy and perception.
 
 ---
