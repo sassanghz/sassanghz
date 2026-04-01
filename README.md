@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sassan</h1>
 <h3 align="center">Embedded Systems • FPGA Development • Robotics • AI/ML • Control & Automation</h3>
 
-<p align="center">
-A passionate about building intelligent hardware–software systems;
-from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devices, cubesats, and drones.
-</p>
-
 ---
 
 ### 🔭 What I'm Working On
@@ -53,13 +48,13 @@ from embedded microcontrollers and FPGAs to AI/ML pipelines running on edge devi
 ### 🛠 **Engineering Focus**
 I work across the full stack of intelligent hardware–software systems:
 
-- **Embedded Systems & Firmware** (C, C++, ARM Cortex, ESP32, STM32, FreeRTOS)
+- **Embedded Systems & Firmware** (C, C++, FPGA Xilinx, ESP32, STM32)
 - **FPGA Development** (Verilog/VHDL, hardware pipelines, DSP, image-processing accelerators)
 - **Electronics & PCB Design** (KiCad, Altium; digital/analog interfaces, sensor boards)
 - **Robotics & Mechatronics** (control systems, actuation, state estimation)
 - **AI/ML for Edge Devices** (quantization, optimization, deployment)
 - **Computer Vision + Image Processing** (OpenCV, PyTorch, RGB/NIR pipelines)
-- **Aerospace Systems Engineering** (embedded autonomy, reduced-power computation)
+- **CAD** (mechanical drawing, SolidWorks)
 
 ---
 
