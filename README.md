@@ -5,7 +5,7 @@
 
 ### 🔭 What I'm Working On
 
-- 🚀 **Payload Subsystem Lead — SC-FRYER CubeSat @ Space Concordia Spacecraft Division (Aug 2025 — Jan 2026)**  
+- 🚀 **Payload Subsystem Lead — SC-FRYER CubeSat @ Space Concordia Spacecraft Division (Aug 2025 - )**  
   Leading the development of an AI-driven payload subsystem for a CubeSat mission:
   - Led an AI-based payload subsystem developed under the **Canadian Space Agency’s CUBICS program**  
   - Defined subsystem requirements and interfaces with Electrical, Command & Data Handling, and Mechanical teams  
@@ -15,7 +15,7 @@
   - Brought up and tested HW/SW platforms using vendor documentation and reference designs  
   - Debugged hardware–firmware boundary issues using waveform-level analysis, logs, and iterative bring-up testing  
 
-- 🤖 **Mechatronics Engineer — ARES Drone @ Space Concordia Robotics Division (2025 — Present)**  
+- 🤖 **Mechatronics Engineer — ARES Drone @ Space Concordia Robotics Division (2025 — 2026)**  
   Working on the full-stack development of an autonomous drone system from the ground up:
   - Designed and built the drone platform using a **Tarot 650 frame** and **Matek F405 flight controller**, contributing both mechanical design and full system integration  
   - Developed embedded software and communication pipelines enabling coordination between the drone and ground station / rover systems  
@@ -38,39 +38,32 @@
   - Aerial & satellite image analysis  
   - Oriented object detection  
   - Deep learning for onboard systems  
-  - Signal & sensor processing  
-  - Applied computer vision  
   - Intelligent embedded systems  
   - AI for resource-constrained environments (space, robotics, edge devices)
-
----
 
 ### 🛠 **Engineering Focus**
 I work across the full stack of intelligent hardware–software systems:
 
 - **Embedded Systems & Firmware** (C, C++, FPGA Xilinx, ESP32, STM32)
-- **FPGA Development** (Verilog/VHDL, hardware pipelines, DSP, image-processing accelerators)
-- **Electronics & PCB Design** (KiCad, Altium; digital/analog interfaces, sensor boards)
+- **FPGA Development** (Verilog/VHDL, image-processing accelerators)
+- **Electronics & PCB Design** (KiCad, Altium; sensor boards)
 - **Robotics & Mechatronics** (control systems, actuation, state estimation)
 - **AI/ML for Edge Devices** (quantization, optimization, deployment)
 - **Computer Vision + Image Processing** (OpenCV, PyTorch, RGB/NIR pipelines)
 - **CAD** (mechanical drawing, SolidWorks)
 
----
-
 ### 💻 **Programming & Tools I Use**
-- **Languages:** C, C++, Python, Verilog/VHDL, MATLAB, HDL-based tooling  
-- **Frameworks:** PyTorch, OpenCV, ROS/ROS2  
-- **Hardware:** FPGAs, microcontrollers, SBCs (Raspberry Pi, Jetson), sensors, NIR cameras  
-- **Dev Tools:** Git, Linux, Docker, Vivado, MATLAB/Simulink, KiCad
-- **Other Interests:** control theory, competitive programming, spacecraft electronics
+- **Languages:** C, Java, Python, Verilog/VHDL, MATLAB
+- **Frameworks:** PyTorch, OpenCV, Tensorflow  
+- **Hardware:** FPGAs, microcontrollers, sensors, NIR cameras  
+- **Dev Tools:** Git, Linux, Vivado, MATLAB/Simulink, KiCad
+- **Other Interests:** control theory, optics, spacecraft electronics
 
 ---
 
 ### ⚡ **What I Like**
-- Building **robots** and real-time systems  
 - Designing **electronics** and debugging on the oscilloscope  
-- Writing clean **embedded firmware**  
+- Writing **embedded firmware**  
 - Implementing **FPGA accelerators** for heavy vision workloads  
 - Doing **AI/ML research** on real datasets with real constraints  
 - Working on anything related to **space** or **aerospace autonomy**  
